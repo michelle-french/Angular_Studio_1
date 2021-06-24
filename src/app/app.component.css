@@ -1,4 +1,12 @@
 .box {
     display: flex;
     padding: 10px;
+    border-style: double;
+    font-size: 125%;
+ }
+ .crew{
+     padding-right: 250pt;
+ }
+ .equip{
+     padding-right: 250pt;
  }
